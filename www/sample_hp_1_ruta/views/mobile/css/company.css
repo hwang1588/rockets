@@ -1,0 +1,336 @@
+/*=========================*/
+/*(19-01-08) '회사소개' 시작:S*/
+/*========================*/
+.tghty {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: #999;
+/*    float:left;*/
+    width: 100% !important;
+/*    margin-left:170px;*/
+    
+}
+
+.tghty td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #999;
+    color: #444;
+    background-color: #F7FDFA;
+    z-index: 9999;
+}
+
+.tghty th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #999;
+    color: #fff;
+    background-color: #26ADE4;
+}
+
+.tghty .tg-985o {
+    padding:0px 10px;
+    background-color: #26ade4;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tghty .tg-14gg {
+    background-color: #ffffff;
+    color: #252525;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.imghty { 
+    float:right;
+    width:38.4%;
+}
+
+@media(max-width:949px){
+    
+    .imghty {float: left; width:100%; margin-bottom:20px; margin-top: 0px;} 
+    .tghty {margin-bottom: 50px;}
+    .tghty .tg-14gg{width: 63% !important;}
+}
+
+/*========================*/
+/*(19-01-08) '회사소개' 끝:E*/
+/*=======================*/
+
+
+/*=========================*/
+/*(19-01-08) '사업소개' 시작:S*/
+/*========================*/
+.tghty2 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: #999;
+    float:left;
+}
+
+.tghty2 td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #999;
+    color: #444;
+    background-color: #f9f9f9;
+}
+
+.tghty2 th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #999;
+    color: #fff;
+    background-color: #26ADE4;
+}
+
+.tghty2 .tg-s6z2 {
+    text-align: center
+}
+
+.tghty2 .tg-tffz {
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tghty2 .tg-baqh {
+    text-align: center;
+    vertical-align: middle;
+    font-weight:bold;
+}
+
+.tghty2 .tg-0lax {
+    text-align: center;
+    vertical-align: middle;
+}
+.tg-popdisplay{
+    display: none;
+    background-color: #26ADE4 !important;
+    border-bottom-style: none !important;
+    border-top-style: none !important;
+    color:#ffffff !important;
+    font-weight: 600;
+    
+}
+.tg-01bx{
+    text-align:left;
+}
+
+@media (max-width:949px) {
+    
+    .tghty2 td{display:block; text-align: center;}
+    .tghty .tg-popdisplay{display:block; text-align: center;}
+    .tghty2 .tg-s6z2{display: none;}
+    .tghty2 .tg-baqh{display:none;}
+    
+}
+
+/*========================*/
+/*(19-01-08) '사업소개' 끝:E*/
+/*=======================*/
+
+
+/*========================================*/
+/*(19-01-10,company2.css) '보유기술' 시작:S*/
+/*=======================================*/
+.tghty3 {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tghty3 td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 20px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.tghty3 th {
+    font-family: gothic;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 20px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.tghty3 .tg-baqh{
+    border-color: #ff6600;
+    text-align: center;
+    border-width: 2px;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.tghty3 .tg-baqp{
+    border-color: #ff6600;
+    text-align: center;
+    border-width: 2px;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.tghty3 .tg-o3h1 {
+    border-color: #ff6600;
+    text-align: center;
+    border-width: 2px;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.tghty3 .tg-s268 {
+    text-align: left;
+    background-color: transparent;
+    color: #000000;
+    border-color: transparent;
+}
+
+.tghty3 .tg-41bs {
+    text-align: left;
+    background-color: transparent;
+    color: #000000;
+    border-color: transparent;
+}
+
+.tghty3 .tg-0lax {
+    text-align: left;
+    background-color: transparent;
+    color: #000000;
+    border-color: transparent;
+}
+
+.imghty2 { 
+    
+    float:right;
+    margin-top: 29px;
+    width:19.5%;
+}
+
+.imghty3 { 
+    
+    float:right;
+    margin-top: 20px;
+    width:19.5%;
+    clear:both;
+}
+
+
+@media(max-width:949px){
+    
+    .imghty2 {float: left; width:100%; margin-bottom:40px;}
+    .imghty3 {float: left; width:100%; margin-bottom:40px;}
+    .tghty {margin-bottom: 50px;}
+    .service-section .items-container .item { width: 89.5% !important;}
+}
+
+.htyhover{width:29%;}
+.htyhover::hover{border: 1px solid #ff6600;}
+/*========================================*/
+/*(19-01-10,company2.css) '보유기술' 끝:E*/
+/*=======================================*/
+
+
+/*=======================*/
+/*(19-01-08) '비전' 시작:S*/
+/*======================*/
+.tghty4 {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+.tghty4 th {
+    font-family: gothic;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: none;
+    border-width: 1px;
+    border-color: #ffffff;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.tghty4 .tg-s268{
+    text-align: left;
+    vertical-align: middle;
+}
+
+.cell_1 {
+    width: 330px;
+    border: 2px solid #6191ff !important;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.cell_2 {
+    width: 280px;
+    border: 2px solid #c450ff !important;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.cell_3 {
+    width: 270px;
+    border: 2px solid #ffa73a !important;
+    box-shadow:-3px 3px 3px 2px;
+}
+
+.circle1 {
+    display:inline-block;
+    clear:both;
+    float:right;
+    width:180px;
+    height: 180px;
+    border: 3px solid blue;
+    border-radius: 50%;
+    text-align: center;
+    }
+
+.htybox{width:100%;}
+
+@media (max-width:949px) {
+    
+    .htybox{width:10%}
+    
+}
+/*에어루타 자체제작 css:s*/
+
+
+
+
+
+
+
+
+
+
